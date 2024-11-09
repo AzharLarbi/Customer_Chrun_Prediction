@@ -22,7 +22,7 @@ Data for this project was sourced from [Kaggle's Bank Customer Churn dataset](ht
 
 ## Exploratory Data Analysis
 During the exploratory phase:
-- **Age** and **credit score** were identified as key differentiators between churners and non-churners.
+- **Age** was identified as key differentiator between churners and non-churners.
 - There is a slight gender imbalance, with more female churners than male churners. However, further analysis showed that this may be sample bias rather than a significant predictor.
 - Churn likelihood does not vary strongly with **balance** or **estimated salary**, suggesting lifestyle factors, rather than financials, may influence churn.
 
