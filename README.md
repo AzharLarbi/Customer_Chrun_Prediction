@@ -1,4 +1,4 @@
-# Credit Card Customer Churn Prediction
+# Customer Churn Prediction
 
 This project aims to predict customer churn for a credit card company using machine learning. By analyzing various customer attributes, the objective is to identify which customers are more likely to churn and provide actionable insights for business retention strategies. Models implemented include Logistic Regression, Random Forest, Gradient Boosting, and XGBoost, evaluated for performance and predictive accuracy.
 
